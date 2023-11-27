@@ -1,6 +1,9 @@
-hey there\n
+## Whos' G?
+> I'm just a rookie software developer.
 
-code, don't code, noodles, don't noodles
+
+
+
 
 <!---
 gothham/gothham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
