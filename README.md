@@ -1,4 +1,4 @@
-## Whos' G?
+## Whos' Sekiro?
 > I'm just a rookie software developer.
 
 
