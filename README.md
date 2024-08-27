@@ -1,5 +1,5 @@
-## Whos' Goutham?
-> I'm just a rookie software developer.
+## who am i?
+> i build apps for half bitten fruit
 
 
 
